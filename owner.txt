@@ -1,0 +1,20 @@
+I need a super simple desktop app that can run on Windows or Mac or Linux that allows me to rip youtube videos into mp4s.
+These will be used in private collection only. There are certain videos that my autistic son has to have access to,
+and if a streaming provider takes it down i am hosed. I've found a few of these such videos posted on youtube, and i need to 
+get local copy before they get takedowns.
+
+- with audio in the mp4, matched to the content timing, is a requirement!
+- i'm youtube premium so we can bypass ads, lmk if that's necessary as a credential login or environment variable
+- using ffmpeg tools under the hood i think, but correct me if that's not the way to go.
+
+Today i have to go to learn ffmpeg myself, and i invariably download the video without the audio, etc.
+
+This one has to be super simple. Enter the URL, give me a preview of that URL, download it in "best available matching bandwidth" (1080p / 720p, etc.)
+
+Give me captions on/off as an option. (and of course match the captions correctly to the timing.)
+
+i don't care PERN or python, as long as i can run it on windows and macos and linux with pretty straightforward pre-install requirements.
+
+first url once we get it going is:
+https://www.youtube.com/watch?v=YcL-Tv7SREQ&t
+(posting this here so i don't forget first url)
