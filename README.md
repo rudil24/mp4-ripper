@@ -1,4 +1,4 @@
-# mp4-ripper
+# mp4-ripper - Rudi Lewis and Claude Code
 
 A simple cross-platform desktop app to download YouTube videos as MP4 files — with audio, optional captions, and automatic quality selection.
 
